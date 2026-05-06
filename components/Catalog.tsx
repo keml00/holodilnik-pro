@@ -12,7 +12,7 @@ export default function Catalog() {
       temp: '0...+8°C',
       description: 'Для хранения и охлаждения продуктов питания, лекарственных средств, вин',
       price: 'От 70 512 ₽',
-      image: 'https://images.unsplash.com/photo-1578916171728-46686eac8d58?w=800&h=600&fit=crop',
+      image: 'https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=800&h=600&fit=crop',
     },
     {
       id: 2,
@@ -60,7 +60,7 @@ export default function Catalog() {
       temp: '0...+4°C',
       description: 'Специализированные камеры для хранения и созревания мяса с контролем влажности',
       price: 'От 82 000 ₽',
-      image: 'https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?w=800&h=600&fit=crop',
+      image: 'https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&h=600&fit=crop',
     },
   ]
 

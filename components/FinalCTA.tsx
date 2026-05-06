@@ -98,9 +98,9 @@ export default function FinalCTA() {
                 <Phone size={16} />
                 <span>+7 (900) 000-00-00</span>
               </a>
-              <a href="mailto:info@profholod.ru" className="flex items-center gap-2 hover:text-white transition-colors">
+              <a href="mailto:keml00@icloud.com" className="flex items-center gap-2 hover:text-white transition-colors">
                 <Mail size={16} />
-                <span>info@profholod.ru</span>
+                <span>keml00@icloud.com</span>
               </a>
             </div>
           </div>

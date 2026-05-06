@@ -8,6 +8,10 @@ const nextConfig: NextConfig = {
         hostname: 'profholod.ru',
         pathname: '/upload/**',
       },
+      {
+        protocol: 'https',
+        hostname: 'images.unsplash.com',
+      },
     ],
   },
 };
